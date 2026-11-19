@@ -1,0 +1,7 @@
+-- Measures DAX prepared for import into Power BI Desktop.
+-- After importing transactions_nettoyees.csv, rename the table to 'Ventes'.
+Chiffre d'affaires net = SUM(Ventes[ca_net])
+Transactions uniques = DISTINCTCOUNT(Ventes[transaction_id])
+Panier moyen = DIVIDE([Chiffre d'affaires net], [Transactions uniques], 0)
+Taux de retour = DIVIDE(SUM(Ventes[retour]), COUNTROWS(Ventes), 0)
+Quantités vendues = CALCULATE(SUM(Ventes[quantite]), Ventes[retour] = 0)

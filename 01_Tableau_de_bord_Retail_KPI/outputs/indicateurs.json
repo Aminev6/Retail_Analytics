@@ -1,0 +1,9 @@
+{
+  "lignes_brutes": 1212,
+  "lignes_valides": 1186,
+  "lignes_rejetees": 26,
+  "chiffre_affaires_net": 890608.0,
+  "taux_retour_pct": 5.82,
+  "transactions_uniques": 1186,
+  "source": "Données entièrement synthétiques, générées pour un projet de démonstration."
+}

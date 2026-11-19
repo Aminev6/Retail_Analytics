@@ -1,0 +1,27 @@
+﻿transaction_id,date,magasin,categorie,produit,quantite,prix_unitaire,remise,retour,erreur
+TXN00060,2026-08-18,,Alimentaire,Epicerie,3,274.3,0,0,magasin manquant
+TXN00083,2026-02-25,Rabat,Alimentaire,Epicerie,-2,365.24,0,0,quantité non positive
+TXN00197,2026-04-03,Marrakech,Alimentaire,Epicerie,-2,134.88,0.15,0,quantité non positive
+TXN00211,2026-03-15,,Mode,Sacs,2,438.14,0,0,magasin manquant
+TXN00262,2026-01-21,,Maison,Cuisine,-2,360.84,0.1,0,magasin manquant; quantité non positive
+TXN00348,2026-10-20,,Hygiene,Entretien,3,361.23,0.1,0,magasin manquant
+TXN00560,2026-06-07,,Mode,Sacs,3,234.39,0,0,magasin manquant
+TXN00655,2026-02-06,Marrakech,Electronique,Ecouteurs,-2,394.84,0.15,0,quantité non positive
+TXN00748,2026-02-17,,Hygiene,Soins,2,373.0,0,0,magasin manquant
+TXN00779,2026-04-30,Tanger,Maison,Cuisine,-2,164.99,0,0,quantité non positive
+TXN00882,2026-03-10,Casablanca,Hygiene,Soins,-2,417.53,0.1,0,quantité non positive
+TXN00883,2026-02-09,,Mode,Sacs,5,429.54,0.15,0,magasin manquant
+TXN00885,2026-06-09,,Alimentaire,Snacks,5,397.94,0.05,0,magasin manquant
+TXN00930,2026-08-29,,Alimentaire,Snacks,4,48.57,0,0,magasin manquant
+TXN00905,2026-03-12,Casablanca,Mode,Chaussures,5,102.99,0,0,identifiant en doublon
+TXN00665,2026-10-03,Casablanca,Electronique,Chargeurs,3,222.75,0.15,0,identifiant en doublon
+TXN00031,2026-02-25,Fes,Electronique,Chargeurs,4,173.34,0,0,identifiant en doublon
+TXN01088,2026-03-30,Marrakech,Alimentaire,Boissons,2,144.79,0,0,identifiant en doublon
+TXN01116,2026-09-17,Rabat,Mode,Textile,5,335.71,0.05,0,identifiant en doublon
+TXN00047,2026-05-04,Marrakech,Mode,Sacs,1,268.66,0.05,0,identifiant en doublon
+TXN00118,2026-05-11,Casablanca,Maison,Rangement,2,310.3,0.15,0,identifiant en doublon
+TXN00633,2026-04-11,Casablanca,Electronique,Ecouteurs,4,192.91,0.15,0,identifiant en doublon
+TXN00622,2026-07-12,Agadir,Maison,Rangement,3,377.47,0.05,0,identifiant en doublon
+TXN00512,2026-09-14,Agadir,Alimentaire,Boissons,3,302.3,0.15,0,identifiant en doublon
+TXN01080,2026-10-19,Agadir,Maison,Cuisine,1,60.12,0,0,identifiant en doublon
+TXN01067,2026-04-29,Casablanca,Electronique,Ecouteurs,3,69.07,0.1,0,identifiant en doublon

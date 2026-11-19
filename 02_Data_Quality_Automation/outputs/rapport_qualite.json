@@ -1,0 +1,13 @@
+{
+  "source": "transactions_synthetiques_brutes.csv",
+  "n_lignes": 1212,
+  "lignes_conformes": 1186,
+  "lignes_signalees": 26,
+  "taux_conformite_pct": 97.85,
+  "anomalies_par_type": {
+    "Magasin manquant": 9,
+    "Quantité invalide": 6,
+    "Doublon ID": 12
+  },
+  "donnees": "synthétiques"
+}

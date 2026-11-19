@@ -1,0 +1,27 @@
+﻿ligne_csv,transaction_id,anomalies
+61,TXN00060,Magasin manquant
+84,TXN00083,Quantité invalide
+198,TXN00197,Quantité invalide
+212,TXN00211,Magasin manquant
+263,TXN00262,Magasin manquant | Quantité invalide
+349,TXN00348,Magasin manquant
+561,TXN00560,Magasin manquant
+656,TXN00655,Quantité invalide
+749,TXN00748,Magasin manquant
+780,TXN00779,Quantité invalide
+883,TXN00882,Quantité invalide
+884,TXN00883,Magasin manquant
+886,TXN00885,Magasin manquant
+931,TXN00930,Magasin manquant
+1202,TXN00905,Doublon ID
+1203,TXN00665,Doublon ID
+1204,TXN00031,Doublon ID
+1205,TXN01088,Doublon ID
+1206,TXN01116,Doublon ID
+1207,TXN00047,Doublon ID
+1208,TXN00118,Doublon ID
+1209,TXN00633,Doublon ID
+1210,TXN00622,Doublon ID
+1211,TXN00512,Doublon ID
+1212,TXN01080,Doublon ID
+1213,TXN01067,Doublon ID
